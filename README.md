@@ -1,5 +1,5 @@
 # 💫 About Me:
-A third-year Information Systems and Technology student specializing in Software Development and Data Analytics, <br>with a strong interest in AI and Machine Learning. Experienced in building web and mobile applications using modern <br>frameworks and tools. Proficient in data analytics, SQL, Python, Tableau, Power BI, and Excel for data-driven <br>decision-making. Passionate about full-stack development, cloud technologies, and automation. Enthusiastic about <br>AI-driven solutions and eager to explore their applications in real-world projects. Highly adaptable, fast learner, and <br>capable of working both independently and in a team. Seeking opportunities to contribute technical expertise to <br>innovative IT solutions. 
+Helo
 
 
 ## 🌐 Socials:
