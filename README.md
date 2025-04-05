@@ -1,5 +1,14 @@
 # 💫 About Me:
-Helo
+Hello!👋
+
+💻 Develop robust, scalable software applications  
+🧠 Create and implement ML models to solve complex problems  
+📊 Transform raw data into actionable business insights  
+🔍 Continuously explore emerging technologies and methodologies
+
+My projects demonstrate my commitment to clean code, thoughtful system design, and delivering solutions that drive real-world impact. I thrive in collaborative environments and enjoy tackling challenging problems that push the boundaries of what's possible.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss potential opportunities!
 
 
 ## 🌐 Socials:
